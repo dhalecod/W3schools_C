@@ -1,6 +1,5 @@
 #include <stdio.h>
-int main() {
-    printf("I am Dev_Marcus\n");
-    printf("My hubbies are coding, gyming, singing and studying");
-    return 0;
+int main () {
+    int myAge = 22;
+    printf("I am %d", myAge, "Years Old");
 }

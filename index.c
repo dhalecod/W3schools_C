@@ -5,7 +5,7 @@ int main() {
     int widthOfTriangle = 6;
     int areaOfTriangle = lenghtOfTriangle * widthOfTriangle;
     printf("Area of Rectangle = lenght x width\n");
-    printf("If lenght of Rectangle is %d\n And width of Rectangle is %d\n", lenghtOfTriangle, widthOfTriangle);
+    printf("If lenght of Rectangle is %d\nAnd width of Rectangle is %d\n", lenghtOfTriangle, widthOfTriangle);
     printf("Area of Rectangle is %d\n", areaOfTriangle);
     return 0;
 }

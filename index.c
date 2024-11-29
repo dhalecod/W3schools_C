@@ -1,8 +1,10 @@
 #include <stdio.h>
 int main() {
-    int myAge = 22;
-    char myGrade = 55;
-    int sum = myAge + myGrade;
-    printf("%d", sum);
-    return 0;
+    char studentName[] = "Makinde Williams";
+    int studentId = 3110;
+    int studentAge = 22;
+    char studentGrade = 'A';
+    float studentScore = 99.9;
+
+    printf("Student name is %s", studentName);
 }

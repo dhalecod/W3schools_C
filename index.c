@@ -2,6 +2,6 @@
 int main() {
     int myAge = 22;
     char myGrade = 'A'
-    printf("I am %d years old, my grade is %c", myAge);
+    printf("I am %d years old, my grade is %c", myAge, myGrade);
     return 0;
 }

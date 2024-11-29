@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main() {
     int myAge = 22;
-    char myGrade = 'A'
-    printf("I am %d years old, my grade is %c", myAge, myGrade);
+    char myGrade = 55;
+    int sum = myAge + myGrade;
+    printf("%d", sum);
     return 0;
 }
